@@ -1,0 +1,2 @@
+# flask_img_ocr_app
+ Flaskとgunicornを使用して、beitモデルにより画像認識を実施するアプリ
