@@ -1,0 +1,1 @@
+gunicorn --daemon -c gunicorn.conf.py 'app:app'
